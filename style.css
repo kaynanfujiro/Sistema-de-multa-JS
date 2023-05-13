@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(255, 255, 255);
+    color: white;
+    font: normal 10pt arial;
+}
+
+#res {
+    background-color: rgb(153, 223, 153);
+}
